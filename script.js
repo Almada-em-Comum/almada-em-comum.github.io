@@ -138,7 +138,51 @@ const candidateJOliveira = new Candidate(
 const candidateFDalva = new Candidate(
   "Fausto D'Alva",
   99,
-  "Assembleia de Freguesia de Almada",
+  "Assembleia de Freguesia da UF de Caparica e Trafaria",
+  "Bloco de Esquerda",
+  "Unknown profession",
+  bioFDalva,
+  "candidate-f-dalva-3-4.jpg",
+  "candidate-f-dalva-16-9.jpg"
+)
+
+const candidateMFreitas = new Candidate(
+  "Martim Freitas",
+  99,
+  "Assembleia da de Freguesia UF de Almada, Cova da Piedade, Pragal e Cacilhas",
+  "Bloco de Esquerda",
+  "Unknown profession",
+  bioFDalva,
+  "candidate-f-dalva-3-4.jpg",
+  "candidate-f-dalva-16-9.jpg"
+)
+
+const candidateTLiberato = new Candidate(
+  "Tânia Liberato",
+  99,
+  "Assembleia de Freguesia da UF de Laranjeiro e Feijó",
+  "Bloco de Esquerda",
+  "Unknown profession",
+  bioFDalva,
+  "candidate-f-dalva-3-4.jpg",
+  "candidate-f-dalva-16-9.jpg"
+)
+
+const candidateJPinto = new Candidate(
+  "Jorge Pinto",
+  99,
+  "Assembleia de Freguesia da UF de Charneca da Caparica e Sobreda",
+  "Bloco de Esquerda",
+  "Unknown profession",
+  bioFDalva,
+  "candidate-f-dalva-3-4.jpg",
+  "candidate-f-dalva-16-9.jpg"
+)
+
+const candidateJSales = new Candidate(
+  "Joana Sales",
+  99,
+  "Assembleia de Freguesia de Costa da Caparica",
   "Bloco de Esquerda",
   "Unknown profession",
   bioFDalva,
@@ -151,16 +195,24 @@ const candidatesMap = {
   "s-cunha": candidateSCunha,
   "g-fernandes": candidateGFernandes,
   "j-oliveira": candidateJOliveira,
-  "f-dalva": candidateFDalva
+  "f-dalva": candidateFDalva,
+  "m-freitas": candidateMFreitas,
+  "t-liberato": candidateTLiberato,
+  "j-pinto": candidateJPinto,
+  "j-sales": candidateJSales
 }
 
 const candidateBtns = document.querySelectorAll(
   "#candidates-dropdown a.dropdown-item")
 
 function changeCandidate(event) {
+  console.log(event.target.dataset.candidate)
+
   const candidateImgEl = document.getElementById("candidate-picture")
-  const candidatePartyEl = document.getElementById("candidate-party-institution")
-  const candidateProfessionEl = document.getElementById("candidate-profession")
+  const candidateInstitution = document
+        .getElementById("candidate-party-institution")
+  const candidateProfessionAgeEl = document
+        .getElementById("candidate-profession-age")
   const candidateBioEl = document.getElementById("candidate-bio")
   const candidateDropdownBtnEl = document.querySelector(
     "#candidate-selection-dropdown > button.dropdown-toggle")
@@ -168,11 +220,23 @@ function changeCandidate(event) {
   const selectedCandidate = candidatesMap[event.target.dataset.candidate]
 
   candidateImgEl.alt = "Fotografia do candidato " + selectedCandidate.name
-  candidatePartyEl.innerText = selectedCandidate.party + " - " +
-    selectedCandidate.institution
   candidateBioEl.innerText = selectedCandidate.bio
-  candidateProfessionEl.innerText = selectedCandidate.profession
+  candidateProfessionAgeEl.innerText = selectedCandidate.profession + ", " +
+    selectedCandidate.age + " anos"
   candidateDropdownBtnEl.innerText = selectedCandidate.name
+
+  switch (event.target.dataset.candidate) {
+    case "s-cunha":
+    case "g-fernandes":
+    case "t-liberato":
+    case "j-sales":
+      candidateInstitution.innerText = "Candidata à " +
+        selectedCandidate.institution
+      break
+    default:
+      candidateInstitution.innerText = "Candidato à " +
+        selectedCandidate.institution
+  }
 
   if (window.innerWidth <= 576) {
     candidateImgEl.src = "assets/" + selectedCandidate.portraitPhotoPath
@@ -186,14 +250,18 @@ function reflowNarrowScreen() {
   const contentBoardEl = document.getElementById("content-board")
   const headerLogosEl = document.getElementsByClassName("logos")[0]
   const candidatePhotoEl = document
-        .getElementById("candidate-picture-institution")
+        .getElementById("candidate-picture")
+  const dropdownHeaders = document.getElementsByClassName("dropdown-header")
 
-  const elementsToReflow = [
+  let elementsToReflow = [
     pageTitleEl,
     contentBoardEl,
     headerLogosEl,
     candidatePhotoEl
   ]
+  for (let header of dropdownHeaders) {
+    elementsToReflow.push(header)
+  }
 
   if (window.innerWidth <= 576) {
     for (let element of elementsToReflow) {

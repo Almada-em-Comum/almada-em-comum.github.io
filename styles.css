@@ -212,6 +212,10 @@ label:hover {
     margin-top: 0.5rem;
 }
 
+.dropdown-header.narrow-screen {
+    font-size: 1.2rem;
+}
+
 #content-board {
     display: flex;
     flex-direction: column;
