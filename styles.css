@@ -90,9 +90,31 @@ p {
     margin-top: 1.5rem;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
 header {
     display: flex;
     margin-left: calc((100% - var(--content-board-width-percentage)) / 2);
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--label-black);
+    color: var(--white);
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 input[type="radio"] {
@@ -216,27 +238,13 @@ label:hover {
     font-size: 1.2rem;
 }
 
-#content-board {
-    display: flex;
-    flex-direction: column;
-    width: var(--content-board-width-percentage);
-    margin: auto;
-    margin-top: 0rem;
+.footer-logo {
+    height: clamp(50px, 10vw, 100px);
 }
 
-#candidate-section-title {
-    margin-top: 0.1rem;
-}
-
-#candidate-selection-dropdown {
-    margin-top: 1rem;
-}
-
-#candidate-selection-dropdown button.dropdown-toggle {
-    background-color: var(--label-black);
-    text-transform: uppercase;
-    font-size: 2.1rem;
-    font-weight: 700;
+.social-icon {
+    width: 30px;
+    height: auto;
 }
 
 body.narrow-screen {
@@ -265,4 +273,52 @@ body.narrow-screen {
 
 .page-title.narrow-screen .sub-subtitle {
     font-size: 0.7em;
+}
+
+#content-board {
+    display: flex;
+    flex-direction: column;
+    width: var(--content-board-width-percentage);
+    margin: auto;
+    margin-top: 0rem;
+}
+
+#candidate-section-title {
+    margin-top: 0.1rem;
+}
+
+#candidate-selection-dropdown {
+    margin-top: 1rem;
+}
+
+#footer-socials {
+    margin-top: 15px;
+}
+
+#footer-logos {
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 7px;
+}
+
+#footer-socials li {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+#footer-socials a {
+    font-size: 14px;
+}
+
+#footer-logos > a {
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+#candidate-selection-dropdown button.dropdown-toggle {
+    background-color: var(--label-black);
+    text-transform: uppercase;
+    font-size: 2.1rem;
+    font-weight: 700;
 }
