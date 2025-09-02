@@ -206,9 +206,6 @@ const candidateBtns = document.querySelectorAll(
   "#candidates-dropdown a.dropdown-item")
 
 function changeCandidate(event) {
-  console.log(event.target.dataset.candidate)
-
-  const candidateImgEl = document.getElementById("candidate-picture")
   const candidateInstitution = document
         .getElementById("candidate-party-institution")
   const candidateProfessionAgeEl = document
@@ -219,7 +216,6 @@ function changeCandidate(event) {
 
   const selectedCandidate = candidatesMap[event.target.dataset.candidate]
 
-  candidateImgEl.alt = "Fotografia do candidato " + selectedCandidate.name
   candidateBioEl.innerText = selectedCandidate.bio
   candidateProfessionAgeEl.innerText = selectedCandidate.profession + ", " +
     selectedCandidate.age + " anos"
@@ -238,11 +234,7 @@ function changeCandidate(event) {
         selectedCandidate.institution
   }
 
-  if (window.innerWidth <= 576) {
-    candidateImgEl.src = "assets/" + selectedCandidate.portraitPhotoPath
-  } else {
-    candidateImgEl.src = "assets/" + selectedCandidate.landscapePhotoPath
-  }
+  updateCandidatePictureElement(selectedCandidate)
 }
 
 function reflowNarrowScreen() {
@@ -274,6 +266,18 @@ function reflowNarrowScreen() {
   }
 }
 
+function updateCandidatePictureElement(candidate) {
+  const candidateImgEl = document.getElementById("candidate-picture")
+
+  candidateImgEl.alt = "Fotografia do candidato " + candidate.name
+
+  if (window.innerWidth <= 576) {
+    candidateImgEl.src = "assets/" + candidate.portraitPhotoPath
+  } else {
+    candidateImgEl.src = "assets/" + candidate.landscapePhotoPath
+  }
+}
+
 function main() {
   for (let btn of candidateBtns) {
     btn.addEventListener("click", changeCandidate)
@@ -281,6 +285,8 @@ function main() {
 
   reflowNarrowScreen()
   window.addEventListener("resize", reflowNarrowScreen)
+
+  updateCandidatePictureElement(candidateSLAlves)
 }
 
 main()
