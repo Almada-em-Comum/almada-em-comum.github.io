@@ -276,7 +276,7 @@ body.narrow-screen {
 
 .logos.narrow-screen .party-logo {
     padding: 0rem;
-    margin-bottom: 3vw;
+    margin-bottom: 2.5vw;
 }
 
 .logos.narrow-screen > #autarquicas-2025 {
@@ -319,6 +319,7 @@ body.narrow-screen {
 #autarquicas-2025 {
     grid-area: autarquicas;
     font-size: 1rem;
+    font-weight: 400;
 }
 
 #candidate-section-title {
