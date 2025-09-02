@@ -103,6 +103,7 @@ ul {
 
 header {
     display: flex;
+    justify-content: space-between;
     margin-left: calc((100% - var(--content-board-width-percentage)) / 2);
 }
 
@@ -144,15 +145,23 @@ label:hover {
     height: 4rem;
 }
 
+.almada-em-comum {
+    font-weight: 300;
+}
+
 .logos {
-    display: flex;
-    flex-direction: row-reverse;
+    align-self: self-start;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    grid-template-areas:
+        "be livre"
+        "autarquicas autarquicas";
 }
 
 .party-logo {
-    height: 5vw;
+    height: clamp(44px, 5vw, 80px);
     width: auto;
-    min-height: 44px;
     aspect-ratio: auto;
 
     margin-right: 0.5rem;
@@ -162,7 +171,6 @@ label:hover {
 .page-title {
     margin-top: 0rem;
     margin-bottom: 0rem;
-    flex-grow: 1;
     align-self: center;
 
     font-weight: 800;
@@ -253,9 +261,16 @@ body.narrow-screen {
     margin-top: 5vw;
 }
 
+.almada-em-comum > strong {
+    font-weight: 800;
+}
+
 .logos.narrow-screen {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-areas:
+    "be"
+    "livre"
+    "autarquicas";
 }
 
 .logos.narrow-screen .party-logo {
@@ -263,6 +278,13 @@ body.narrow-screen {
     margin-bottom: 3vw;
 }
 
+.logos.narrow-screen > #autarquicas-2025 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .page-title.narrow-screen {
     font-size: clamp(16px, 7vw, 30px);
 }
@@ -281,6 +303,19 @@ body.narrow-screen {
     width: var(--content-board-width-percentage);
     margin: auto;
     margin-top: 0rem;
+}
+
+#header-logo-livre {
+    grid-area: livre;
+}
+
+#header-logo-be {
+    grid-area: be;
+}
+
+#autarquicas-2025 {
+    grid-area: autarquicas;
+    font-size: 1rem;
 }
 
 #candidate-section-title {
