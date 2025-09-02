@@ -287,6 +287,8 @@ body.narrow-screen {
 }
 .page-title.narrow-screen {
     font-size: clamp(16px, 7vw, 30px);
+    align-self: self-start;
+    margin-top: 1vw;
 }
 
 .page-title.narrow-screen .subtitle {
