@@ -98,8 +98,8 @@ const candidateSLAlves = new Candidate(
   "LIVRE",
   "Professor, Cantor",
   bioSLAlves,
-  "candidate-s-alves-3-4.jpg",
-  "candidate-s-alves-16-9.jpg"
+  "candidate-s-alves-3-4-clean.jpg",
+  "candidate-s-alves-16-9-clean.jpg"
 )
 
 const candidateSCunha = new Candidate(
@@ -109,8 +109,8 @@ const candidateSCunha = new Candidate(
   "Bloco de Esquerda",
   "Unknown profession",
   bioSCunha,
-  "candidate-s-cunha-3-4.png",
-  "candidate-s-cunha-16-9.png"
+  "candidate-s-cunha-3-4-clean.png",
+  "candidate-s-cunha-16-9-clean.png"
 )
 
 const candidateGFernandes = new Candidate(
@@ -120,8 +120,8 @@ const candidateGFernandes = new Candidate(
   "LIVRE",
   "Unknown profession",
   bioGFernandes,
-  "candidate-g-fernandes-3-4.jpg",
-  "candidate-g-fernandes-16-9.jpg"
+  "candidate-g-fernandes-3-4-clean.jpg",
+  "candidate-g-fernandes-16-9-clean.jpg"
 )
 
 const candidateJOliveira = new Candidate(
@@ -131,8 +131,8 @@ const candidateJOliveira = new Candidate(
   "Bloco de Esquerda",
   "Professor, Ator",
   bioJOliveira,
-  "candidate-j-oliveira-3-4.jpg",
-  "candidate-j-oliveira-16-9.jpg"
+  "candidate-j-oliveira-3-4-clean.jpg",
+  "candidate-j-oliveira-16-9-clean.jpg"
 )
 
 const candidateFDalva = new Candidate(
@@ -142,8 +142,8 @@ const candidateFDalva = new Candidate(
   "Bloco de Esquerda",
   "Unknown profession",
   bioFDalva,
-  "candidate-f-dalva-3-4.jpg",
-  "candidate-f-dalva-16-9.jpg"
+  "candidate-f-dalva-3-4-clean.jpg",
+  "candidate-f-dalva-16-9-clean.jpg"
 )
 
 const candidateMFreitas = new Candidate(
@@ -153,8 +153,8 @@ const candidateMFreitas = new Candidate(
   "Bloco de Esquerda",
   "Unknown profession",
   bioFDalva,
-  "candidate-f-dalva-3-4.jpg",
-  "candidate-f-dalva-16-9.jpg"
+  "candidate-m-freitas-3-4-clean.jpg",
+  "candidate-m-freitas-16-9-clean.jpg"
 )
 
 const candidateTLiberato = new Candidate(
@@ -164,8 +164,8 @@ const candidateTLiberato = new Candidate(
   "Bloco de Esquerda",
   "Unknown profession",
   bioFDalva,
-  "candidate-f-dalva-3-4.jpg",
-  "candidate-f-dalva-16-9.jpg"
+  "candidate-t-liberato-3-4-clean.jpg",
+  "candidate-t-liberato-16-9-clean.jpg"
 )
 
 const candidateJPinto = new Candidate(
@@ -175,8 +175,8 @@ const candidateJPinto = new Candidate(
   "Bloco de Esquerda",
   "Unknown profession",
   bioFDalva,
-  "candidate-f-dalva-3-4.jpg",
-  "candidate-f-dalva-16-9.jpg"
+  "candidate-j-pinto-3-4-clean.jpg",
+  "candidate-j-pinto-16-9-clean.jpg"
 )
 
 const candidateJSales = new Candidate(
@@ -186,8 +186,8 @@ const candidateJSales = new Candidate(
   "Bloco de Esquerda",
   "Unknown profession",
   bioFDalva,
-  "candidate-f-dalva-3-4.jpg",
-  "candidate-f-dalva-16-9.jpg"
+  "candidate-j-sales-3-4-clean.jpg",
+  "candidate-j-sales-16-9-clean.jpg"
 )
 
 const candidatesMap = {
