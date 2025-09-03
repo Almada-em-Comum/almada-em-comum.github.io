@@ -12,7 +12,7 @@
 
     --doc-font-size: 16px;
     --content-board-width-percentage: 60%;
-    --candidate-selection-dropdown-font-size: 1.2rem;
+    --candidate-selection-dropdown-font-size: 1.5rem;
     --p-font-size: 1.5rem;
 }
 
@@ -112,6 +112,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-grow: 1;
     background-color: var(--label-black);
     color: var(--white);
     padding-top: 20px;
@@ -243,12 +244,12 @@ label:hover {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
     color: #82888d;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 400;
 }
 
 .dropdown-header.freguesia {
-    font-size: 0.85rem;
+    font-size: 1rem;
     font-weight: 300;
 }
 
@@ -308,6 +309,10 @@ body.narrow-screen {
 
 .page-title.narrow-screen .sub-subtitle {
     font-size: 0.7em;
+}
+
+.dropdown-header:not(.freguesia) {
+    text-decoration: underline;
 }
 
 #content-board {
