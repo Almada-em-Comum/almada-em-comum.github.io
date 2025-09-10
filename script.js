@@ -147,7 +147,7 @@ const candidateFDalva = new Candidate(
 )
 
 const candidateMFreitas = new Candidate(
-  "Martim Freitas",
+  "Martim de Freitas",
   99,
   "Assembleia da de Freguesia UF de Almada, Cova da Piedade, Pragal e Cacilhas",
   "Bloco de Esquerda",
