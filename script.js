@@ -96,7 +96,7 @@ const candidateSLAlves = new Candidate(
   41,
   "Câmara Municipal de Almada",
   "LIVRE",
-  "Professor, Cantor",
+  "Professor, Músico",
   bioSLAlves,
   "candidate-s-alves-3-4-clean.jpg",
   "candidate-s-alves-16-9-clean.jpg"
@@ -104,10 +104,10 @@ const candidateSLAlves = new Candidate(
 
 const candidateSCunha = new Candidate(
   "Sandra Cunha",
-  99,
+  52,
   "Câmara Municipal de Almada",
   "Bloco de Esquerda",
-  "Unknown profession",
+  "Socióloga",
   bioSCunha,
   "candidate-s-cunha-3-4-clean.png",
   "candidate-s-cunha-16-9-clean.png"
@@ -115,10 +115,10 @@ const candidateSCunha = new Candidate(
 
 const candidateGFernandes = new Candidate(
   "Geizy Fernandes",
-  99,
+  41,
   "Assembleia Municipal de Almada",
   "LIVRE",
-  "Unknown profession",
+  "Assessora de Comunicação e Direitos Humanos",
   bioGFernandes,
   "candidate-g-fernandes-3-4-clean.jpg",
   "candidate-g-fernandes-16-9-clean.jpg"
@@ -137,10 +137,10 @@ const candidateJOliveira = new Candidate(
 
 const candidateFDalva = new Candidate(
   "Fausto D'Alva",
-  99,
+  56,
   "Assembleia de Freguesia da UF de Caparica e Trafaria",
   "Bloco de Esquerda",
-  "Unknown profession",
+  "Politólogo",
   bioFDalva,
   "candidate-f-dalva-3-4-clean.jpg",
   "candidate-f-dalva-16-9-clean.jpg"
@@ -148,10 +148,10 @@ const candidateFDalva = new Candidate(
 
 const candidateMFreitas = new Candidate(
   "Martim de Freitas",
-  99,
+  22,
   "Assembleia da de Freguesia UF de Almada, Cova da Piedade, Pragal e Cacilhas",
-  "Bloco de Esquerda",
-  "Unknown profession",
+  "LIVRE",
+  "Estudante",
   bioFDalva,
   "candidate-m-freitas-3-4-clean.jpg",
   "candidate-m-freitas-16-9-clean.jpg"
@@ -159,10 +159,10 @@ const candidateMFreitas = new Candidate(
 
 const candidateTLiberato = new Candidate(
   "Tânia Liberato",
-  99,
+  25,
   "Assembleia de Freguesia da UF de Laranjeiro e Feijó",
-  "Bloco de Esquerda",
-  "Unknown profession",
+  "LIVRE",
+  "Estudante",
   bioFDalva,
   "candidate-t-liberato-3-4-clean.jpg",
   "candidate-t-liberato-16-9-clean.jpg"
@@ -170,10 +170,10 @@ const candidateTLiberato = new Candidate(
 
 const candidateJPinto = new Candidate(
   "Jorge Pinto",
-  99,
+  53,
   "Assembleia de Freguesia da UF de Charneca da Caparica e Sobreda",
   "Bloco de Esquerda",
-  "Unknown profession",
+  "Gestor de Produto, Coordenador da Comissão de Trabalhadores da Altice",
   bioFDalva,
   "candidate-j-pinto-3-4-clean.jpg",
   "candidate-j-pinto-16-9-clean.jpg"
@@ -181,10 +181,10 @@ const candidateJPinto = new Candidate(
 
 const candidateJSales = new Candidate(
   "Joana Sales",
-  99,
+  44,
   "Assembleia de Freguesia de Costa da Caparica",
   "Bloco de Esquerda",
-  "Unknown profession",
+  "Coordenadora de projetos sociais, Dirigente associativa feminista",
   bioFDalva,
   "candidate-j-sales-3-4-clean.jpg",
   "candidate-j-sales-16-9-clean.jpg"

@@ -87,6 +87,7 @@ h3 {
 
 p {
     font-size: var(--p-font-size);
+    font-weight: 435;
     margin-top: 1.5rem;
 }
 
