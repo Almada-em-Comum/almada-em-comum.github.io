@@ -52,24 +52,94 @@ class Candidate {
   }
 }
 
-const bioSLAlves = `Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Integer maximus augue vel urna rhoncus, eget porttitor lorem tincidunt. In hac
-habitasse platea dictumst. Nulla laoreet felis nisi, nec molestie dolor interdum
-ut. Nullam dictum sem nec lacus suscipit, non sagittis neque suscipit.`;
+const bioSLAlves = `Sou filho da cidade de Almada; nascido, criado, educado em
+Almada, e nunca daqui sai, como a maior parte dos jovens da minha geração.
+Continuo a viver e a trabalhar em Almada, no centro, casa comprada, pratico
+voluntariado e desporto nas instituições Almadenses, padrinho de uma das
+marchas populares. Além de professor, sou cantor e ator profissional.
 
-const bioSCunha = `Proin ultrices, massa id porttitor finibus, mauris lorem
-condimentum neque, et aliquam ligula metus nec nisi. Fusce at luctus orci.
-Quisque auctor nibh orci, vitae facilisis magna egestas sed. Curabitur at turpis
-neque.`;
+Nos últimos anos tenho visto Almada a perder o seu potencial, o poder a ser
+monopolizado, sendo que, perante também o avanço da direita e da extrema-
+direita no panorama nacional, é necessário agir, posicionarmo-nos e fazer algo
+pela Democracia. É preciso defender a educação como base para que a Democracia
+não se escape por entre os dedos, esse é um dos alicerces mais essenciais para
+conter o avanço dos totalitarismos.`;
 
-const bioJOliveira = `Quisque sapien metus, scelerisque quis dolor non, gravida
-finibus nisl. Sed at tortor ligula. Fusce et leo turpis. Suspendisse pellentesque
-porta mi, et sodales eros dapibus suscipit.`;
+const bioSCunha = `Socióloga, doutoranda em Estudos de Género na Faculdade de
+Ciências Sociais e Humanas – UNL, é investigadora no Observatório do Racismo e
+Xenofobia da Faculdade de Direito da Universidade Nova de Lisboa.
 
-const bioGFernandes = `Sed sed ante eget ex varius rhoncus. Maecenas a dui
-pretium, condimentum arcu eget, commodo est. Donec consequat, ante vitae
-ultricies tincidunt, enim tortor ultrices odio, id tristique mauris est ut dolor.
-Maecenas tincidunt rutrum tortor in varius.`;
+Filha de emigrantes, nasceu em França e regressou a Portugal com 7 anos. Cresceu e
+estudou no concelho de Almada onde continua a residir. Passou pela escola
+primária de Vale de Figueira na Sobreda da Caparica, agora Escola Básica
+Miquelina Pombo e pela escola Básica Elias Garcia. Estreou a escola Daniel
+Sampaio e fez o secundário na Emídio Navarro.
+
+Feminista convicta, é sócia fundadora da FEM - Feministas em Movimento,
+associação com sede no concelho de Almada e membro do conselho consultivo da
+Associação de proteção à infância Meninos do Mundo. Foi professora de Análise
+Qualitativa de Dados no Instituto Superior de Economia e Gestão – IUL entre
+2013 e 2016. Filiada no Bloco de Esquerda desde a sua fundação, é membro da
+Coordenadora Distrital de Setúbal e da Comissão de Direitos do partido. Foi
+deputada à Assembleia da República entre 2015 e 2021.`;
+
+const bioJOliveira = `Nasceu no Brasil e vive em Almada desde 2001. Com um
+longo percurso no associativismo cultural local, foi lá que começou a sua
+formação artística. Foi também através do movimento teatral e associativo em
+Almada que iniciou a sua participação cívica e política local, defendendo o
+associativismo como essencial ao desenvolvimento cultural e democrático do
+concelho.
+
+Como ator, trabalhou, em Almada, com o Teatro Extremo, Ninho de Víboras, O
+Grito, entre outras; trabalhou ainda com os Artistas Unidos. Contribuiu para o
+livro Cidade do Teatro com o estudo do público da 17ª e 18ª edições da Mostra
+de Teatro de Almada, festival no qual participou e colaborou na sua realização
+ao longo de vários anos. Nos anos mais recentes, foi professor em Setúbal.
+
+É membro da Coordenadora Concelhia do Bloco de Esquerda de Almada,
+desempenhando também funções de vereador em substituição na Câmara Municipal.`;
+
+const bioGFernandes = `Nasci em Divinópolis, Minas Gerais. Vivo em Portugal há
+17 anos. Sou formada em Direito pela Universidade Autónoma de Lisboa e também
+em Estudos Artísticos, Variante de Artes e Culturas Comparadas pela
+Universidade de Letras da Universidade de Lisboa.
+
+Caros concidadãos e concidadãs, é com esperança que apresento a minha
+candidatura à Assembleia Municipal de Almada. Em contraposição ao discurso
+populista e anti-imigração de grupos nacionalistas, que se alimentam do medo e
+da desinformação para espalhar as suas ideias, proponho uma visão de união e
+progresso para o nosso futuro coletivo.
+
+Apresento-me com o desejo de tornar visíveis as pessoas que permanecem
+invisíveis em Almada, não apenas nas estatísticas, mas na realidade quotidiana
+que as afeta. Candidato-me com a determinação de estender as mãos, arregaçar
+as mangas e trabalhar em prol do bem comum, especialmente num momento em que o
+mundo exigirá de todos nós, que acreditamos na liberdade, o nosso compromisso.
+
+Nunca imaginei que a humanidade seria novamente arrastada pela intolerância e
+pelo medo — esse sentimento avassalador que leva as pessoas a cometerem
+barbaridades. Os discursos populistas buscam dividir as pessoas, criando uma
+barreira entre o “nós” e o “eles”, desmantelando os sentimentos nobres que
+todos carregamos em nosso interior. Isso é, além de perigoso, uma armadilha
+daqueles e daquelas que buscam o poder. E essa dinâmica acontece,
+principalmente, numa escala local, pois é nas interações pessoais e no dia-a-
+dia das pessoas que a extrema-direita consegue conquistar espaço.
+
+Almada, composta por diferentes grupos étnicos e culturais, precisará
+de pessoas comprometidas com a proteção e valorização dos direitos
+fundamentais e humanos — confesso-vos que nunca imaginei escrever que os
+direitos humanos precisam ser valorizados, mas os grupos xenófobos,
+homofóbicos e nacionalistas conseguiram deturpar também o que são os direitos
+humanos, colocando em risco direitos adquiridos que servem a todos nós.
+
+A Assembleia Municipal de Almada precisará de pessoas empenhadas na denúncia e
+proteção desses direitos, bem como pessoas empenhadas no bem-estar social, na
+proteção do meio ambiente e dos animais deste município. Gostaria de fazer
+parte disso. Não vos posso esconder as minhas motivações para esta candidatura
+que, sem ilusões ou romantismo sobre a realidade que enfrentamos, é, acima de
+tudo, feita em defesa da natureza, da liberdade, da igualdade e dos direitos
+humanos. Serei mais uma voz, mais um voto, mais uma mente dedicada à luta pela
+dignidade humana — onde quer que seja necessária.`;
 
 const bioFDalva = `Etiam mollis luctus scelerisque. Ut non pharetra mauris.
 Curabitur arcu erat, pharetra eu congue sed, posuere ut quam. Suspendisse
@@ -206,21 +276,30 @@ const candidateBtns = document.querySelectorAll(
   "#candidates-dropdown a.dropdown-item")
 
 function changeCandidate(event) {
-  const candidateInstitution = document
-        .getElementById("candidate-party-institution")
-  const candidateProfessionAgeEl = document
-        .getElementById("candidate-profession-age")
-  const candidateBioEl = document.getElementById("candidate-bio")
-  const candidateDropdownBtnEl = document.querySelector(
-    "#candidate-selection-dropdown > button.dropdown-toggle")
-
   const selectedCandidate = candidatesMap[event.target.dataset.candidate]
 
-  candidateBioEl.innerText = selectedCandidate.bio
+  const candidateBioEl = document.getElementById("candidate-bio")
+  candidateBioEl.innerHTML = ""
+  const paragraphList = selectedCandidate.bio.split("\n\n")
+  for (let paragraph of paragraphList) {
+    const trimmedParagraph = paragraph.replaceAll("\n", " ")
+    const pNode = document.createElement("p")
+    pNode.innerText = trimmedParagraph
+    candidateBioEl.appendChild(pNode)
+  }
+
+
+  const candidateProfessionAgeEl = document
+        .getElementById("candidate-profession-age")
   candidateProfessionAgeEl.innerText = selectedCandidate.profession + ", " +
     selectedCandidate.age + " anos"
+
+  const candidateDropdownBtnEl = document.querySelector(
+    "#candidate-selection-dropdown > button.dropdown-toggle")
   candidateDropdownBtnEl.innerText = selectedCandidate.name
 
+  const candidateInstitution = document
+        .getElementById("candidate-party-institution")
   switch (event.target.dataset.candidate) {
     case "s-cunha":
     case "g-fernandes":
