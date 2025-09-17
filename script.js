@@ -141,29 +141,155 @@ tudo, feita em defesa da natureza, da liberdade, da igualdade e dos direitos
 humanos. Serei mais uma voz, mais um voto, mais uma mente dedicada à luta pela
 dignidade humana — onde quer que seja necessária.`;
 
-const bioFDalva = `Etiam mollis luctus scelerisque. Ut non pharetra mauris.
-Curabitur arcu erat, pharetra eu congue sed, posuere ut quam. Suspendisse
-lobortis ultricies nibh, et mattis arcu vulputate sit amet. Maecenas nec erat
-lacinia, ornare nulla a, luctus nisl.`;
+const bioFDalva = `Licenciado em Ciência Política e Relações Internacionais e
+Pós Graduado em Defesa e Segurança. Vive no concelho de almada há 24 anos e é
+um defensor nato das minorias e preocupado com integração total dos mesmos na
+sociedade. Autarca desde 2017 na Assembleia da União das Freguesias da
+Caparica e Trafaria.`;
 
-const bioMFreitas = `Etiam porttitor nec urna sit amet efficitur. Nulla ac odio
-metus. Donec at purus eu neque tristique ultrices non eget ligula. Duis eget
-efficitur erat. Mauris magna est, scelerisque sit amet metus nec, malesuada
-interdum est. Donec sagittis sapien eleifend, egestas quam eu, placerat massa.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar tellus sit
-amet gravida posuere.`;
+const bioMFreitas = `Nasci, cresci e vivi sempre em Almada, na Cova da Piedade
+. É na margem certa que estudo, frequentando o Mestrado em Genética Molecular
+e Biomedicina na NOVA FCT, onde também tenho a minha atividade associativa
+abraçada à ecologia e à comunidade no Núcleo de Ambiente e Sustentabilidade,
+do qual fui dirigente no último ano. Também tenho um passado ligado ao
+desporto local como exímio aquecedor de bancos no quase centenário Clube
+Recreativo Piedense. Tendo crescido durante os anos da troika num planeta cada
+vez mais quente, tornou-se inevitável ser de esquerda e ecologista. Aqui, moro
+com diversas causas que fazem falta na nossa cidade, como o cooperativismo, a
+ecologia e a participação cidadã na democracia local. O trabalho coletivo é a
+força que faz Almada crescer!
 
-const bioTLiberato = `Donec gravida id magna id malesuada. Aliquam rutrum mi sit
-amet lorem rhoncus, eget consequat nunc scelerisque. Pellentesque neque purus,
-volutpat non interdum nec, tincidunt at felis.`;
+A minha candidatura à Assembleia Municipal é movida pelo tempo. Um em cada
+quatro almadenses sai todos os dias da “cidade dormitório” para trabalhar,
+aumentando a jornada de trabalho em várias horas. São horas de vida perdidas
+que poderiam ser passadas a conviver em família, a participar no
+associativismo local ou a aproveitar a cultura almadense.
 
-const bioJPinto = `Sed sed diam elit. Duis consectetur ultricies libero, id
-vestibulum turpis fermentum vitae. Suspendisse lorem ex, tempus ut sagittis eu,
-molestie id mauris.`;
+A coligação Almada em Comum deve lutar por estas pessoas, não aceitando nem o
+conformismo de viver numa periferia, nem a inação ou falsas soluções dos
+executivos passados que não criaram condições para que os almadenses pudessem
+trabalhar na cidade. É da nossa responsabilidade não deixar o tema do “
+desenvolvimento económico” nas mãos da direita e procurar soluções para que
+Almada tenha uma atividade económica socialmente justa, apoiada não só no
+poder público, mas também fortemente no histórico cooperativismo, para que os
+almadenses possam finalmente viver (n)a sua cidade.
+
+Urge também lutar por uma verdadeira ecologia, reduzindo o pouco ambicioso
+prazo do atual executivo de 35 anos para uma Almada Neutra em Carbono. O
+investimento em Núcleos de Energia Renováveis que ainda não preveem a gestão
+democrática pelos moradores, a expansão do Metro para a Costa de Caparica e
+Trafaria que ainda vive uma fase embrionária e os maus odores da Fábrica de
+Palença que continuam a causar desconforto à população do Monte de Caparica
+são causas que deverão ser escrutinadas pelos nossos autarcas nos próximos anos.
+
+Uma Almada em Comum também terá verdadeiros mecanismos de participação cidadã
+na política local, contrariando a cada vez mais impessoal gestão da vereação.
+É um dever nosso lutar, por exemplo, por um Conselho Municipal da Habitação,
+para colocar no centro da discussão quem mais sofre com a atual crise; por uma
+primeira Assembleia Cidadã Almadense, que debata e crie soluções sobre um
+grande tema da cidade, escolhido pelos habitantes e com uma duração que a
+torne num verdadeiro espaço de mudança. Colocar as pessoas a conversar é a
+forma mais sincera de criar comunidade.
+
+E numa Almada cada vez mais gentrificada, torna-se essencial semear
+verdadeiras relações. É com este espírito de que política local é presença que
+avanço para criarmos juntos uma verdadeira Almada, Cova da Piedade, Pragal e
+Cacilhas em Comum!`;
+
+const bioTLiberato = `O meu caminho tem seguido as correntes do Tejo, da vila
+ribatejana, às praias de Oeiras e, finalmente, na margem sul, onde assentei em
+Almada há 3 anos. Foi e é na vivência destes vários espaços que me construo e
+moldo e, talvez por terem sido tão diferentes entre si, me tenham
+sensibilizado para várias perspetivas de vida na área metropolitana. Licenciei-
+me em Ciência Política e Relações Internacionais na NOVA FCSH em 2021 e
+retomei os estudos em 2024 para seguir mestrado em Gestão na NOVA SBE.
+
+O Laranjeiro e Feijó são freguesias de destino: muitas gentes de fora
+escolheram aqui viver, tal como eu. É por isso um ponto de encontro
+socialmente e culturalmente diverso, em que a população migrante é um
+importante fator na dinamização do comércio local. As autarquias locais e em
+particular as juntas de freguesia têm um papel essencial em mediar os
+interesses de populações tão diversas para construir um espaço comum que sirva
+todas as suas aspirações.
+
+Num momento em que as forças de direita nos querem pôr uns contra os outros,
+há que nos virar para os nossos vizinhos, para perceber que as lutas
+quotidianas - na mobilidade, na habitação, na educação, na saúde - até são as
+mesmas. É necessário atuar em proximidade dos fregueses, criando espaços de
+encontro e diálogo e fomentar uma democracia participada, onde todas são
+encorajadas a pronunciar-se sobre o destino do território que ocupam para
+viver e trabalhar.
+
+Mas para ser destino, é preciso caminho. Desde os que saem para o trabalho
+ainda antes de o sol nascer, aos que neste território ergueram os seus
+pequenos negócios de bairro, temos de dignificar a vida de quem aqui vive. Dar
+as condições para que os fregueses encontrem na sua proximidade onde passar o
+tempo livre, tornando as ruas seguras: para brincar, em ruas limpas, verdes e
+cuidadas; para caminhar e pedalar, sem o perigo do automóvel e em passeios
+acessíveis por todos; para conviver e passear, gozando do direito de ocupar o
+espaço público livremente e contrariando a tendência mercantilista do lazer.
+
+Pôr, por isso, ao dispor da população os equipamentos públicos para expandir
+as capacidades de cada um, apoiar o associativismo para criar redes
+comunitárias e tornar os nossos espaços públicos apelativos para se passar o
+tempo. Um mandato na assembleia tornaria o Laranjeiro e Feijó mais próximo do
+ideal de freguesia que queremos. Convicta de que precisamos do projeto da
+coligação Almada em Comum nestas freguesias, assumo este compromisso para a
+melhoria do território que é de todos e que por todos deve ser criado.`;
+
+const bioJPinto = `Exerço funções de Gestor de Produto na MEO e centra a minha
+atividade política na área autárquica e laboral. Sou coordenador da Comissão
+de Trabalhadores da MEO e dirigente local do Bloco de Esquerda.
+
+Oito anos de compromisso com a freguesia! Ao longo de dois mandatos na
+Assembleia de Freguesia da Charneca de Caparica e Sobreda, desde 2017, mantive-
+me firme no compromisso com quem confiou no Bloco de Esquerda.
+
+Nunca me desresponsabilizei. Não fui oposição por oposição. Votei sempre em
+consciência. Ao longo dos anos, analisei e tomei posição sobre todos os
+orçamentos e planos de atividades apresentados pela Junta, sempre com sentido
+de responsabilidade. Apoiei o que era positivo para a freguesia, viesse de que
+força política viesse; combati o que achei insuficiente ou errado; e
+apresentei propostas alternativas sempre que possível para melhorar a vida na
+freguesia.
+
+Nestes anos, tentei contribuir para decisões mais justas, alertar para
+problemas ignorados, defender causas sociais, ambientais e culturais. Acredito
+que ajudei a dar voz a quem mais precisa de ser ouvido. Sei que fiz coisas
+boas pela União de Freguesias — talvez pequenas aos olhos de alguns, mas com
+impacto real na vida de quem cá vive.
+
+Lamento que o sentido de urgência da Junta, tantas vezes chamado à atenção,
+tenha ficado aquém das necessidades da população. Mas nunca me resignei.
+Estive presente, atento, disponível. Fiscalizei, questionei, propus. Defendi
+causas sociais, ambientais e culturais, e alertei para a falta de urgência da
+Junta em áreas críticas.
+
+Nunca deixei de acreditar que a política local deve ser feita com
+transparência e proximidade. É por todos os que acreditam que a política local
+deve ser feita com seriedade - e que os políticos não são todos iguais - que
+continuo disponível para dar o meu melhor.
+
+A 12 de outubro, voltamos a ter uma escolha importante. Mais do que listas,
+escolhemos que democracia queremos construir: distante ou participativa,
+fechada ou aberta à população. Com a coligação Almada em Comum (Bloco de
+Esquerda + LIVRE), estamos prontos para continuar a dar voz a quem cá vive.
+Porque sim - a política local conta. E, faz mesmo a diferença!`;
+
+const bioJSales = `Trabalha como técnica superior coordenadora de projectos
+sociais, nacionais e europeus, é coordenadora do Centro de Cultura e
+Intervenção Feminista da cidade de Lisboa e ativista e dirigente associativa
+dos direitos das mulheres. Pós-graduada em Estudos sobre as Mulheres, as
+Mulheres na Sociedade e na Cultura pela FCSH-UNL, tem o Curso de
+Especialização em Igualdade de Género pelo ISCSPUL. Participou como
+representante portuguesa em encontros internacionais de mulheres realizados em
+países como Cabo-Verde, França, Egipto e Jordânia. Dirigente local do Bloco de
+Esquerda e autarca de longa data, sendo eleita na Assembleia de Freguesia da
+Costa da Caparica desde 2017.`
 
 const candidateSLAlves = new Candidate(
   "Sérgio Lourosa Alves",
-  41,
+  39,
   "Câmara Municipal de Almada",
   "LIVRE",
   "Professor, Músico",
@@ -255,7 +381,7 @@ const candidateJSales = new Candidate(
   "Assembleia de Freguesia de Costa da Caparica",
   "Bloco de Esquerda",
   "Coordenadora de projetos sociais, Dirigente associativa feminista",
-  bioFDalva,
+  bioJSales,
   "candidate-j-sales-3-4-clean.jpg",
   "candidate-j-sales-16-9-clean.jpg"
 )
