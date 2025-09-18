@@ -300,7 +300,7 @@ label:hover {
     margin-top: 1rem;
     list-style-type: "- ";
     padding-left: 1rem;
-    font-size: 1.35rem;
+    font-weight: 375;
 }
 
 .accordion-item {
