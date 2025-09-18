@@ -14,6 +14,10 @@
     --content-board-width-percentage: 60%;
     --candidate-selection-dropdown-font-size: 1.3rem;
     --p-font-size: 1.5rem;
+
+    --accordion-bg-color: transparent;
+    --accordion-btn-icon-open: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23ede4e7' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+    --accordion-btn-icon-closed: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23212529' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
 }
 
 @media (max-width: 1350px) and (min-width: 992px) {
@@ -57,6 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 
 html {
     font-size: var(--doc-font-size);
+    color: var(--black);
 }
 
 body {
@@ -267,10 +272,69 @@ label:hover {
     height: auto;
 }
 
+.accordion-button {
+    font-size: 1.75rem;
+    font-weight: 550;
+    box-sizing: border-box;
+    flex-direction: row-reverse;
+    justify-content: start;
+    background-color: var(--accordion-bg-color);
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-collapse {
+    background-color: var(--accordion-bg-color);
+}
+
+.accordion-body {
+    font-size: var(--p-font-size);
+    font-weight: 435;
+    background-color: var(--accordion-bg-color);
+    padding: 1rem 0;
+}
+
+.accordion-body ul {
+    margin-top: 1rem;
+    list-style-type: "- ";
+    padding-left: 1rem;
+    font-size: 1.35rem;
+}
+
+.accordion-item {
+    background-color: var(--accordion-bg-color);
+    border: none;
+}
+
+.accordion-button::after {
+    margin-right: 2vw;
+    margin-left: 0;
+    background-image: var(--accordion-btn-icon-closed);
+    background-size: 1.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: var(--label-black);
+    color: var(--white);
+    box-shadow: none;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: var(--accordion-btn-icon-open)
+}
+
 body.narrow-screen {
     display: flex;
     margin-left: 5vw;
     margin-top: 5vw;
+}
+
+h3.accordion-header {
+    margin-top: 0;
 }
 
 .almada-em-comum > strong {
@@ -344,6 +408,12 @@ body.narrow-screen {
 
 #candidate-selection-dropdown {
     margin-top: 1rem;
+}
+
+#accordion-policy {
+    box-sizing: content-box;
+    background-color: var(--accordion-bg-color);
+    margin-top: 2rem;
 }
 
 #footer-socials {
