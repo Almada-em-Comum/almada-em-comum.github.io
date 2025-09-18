@@ -386,6 +386,17 @@ const candidateJSales = new Candidate(
   "candidate-j-sales-16-9-clean.jpg"
 )
 
+const candidateLCGomes = new Candidate(
+  "Luísa Costa Gomes",
+  71,
+  "Mandatária Política",
+  "Sem Partido",
+  "Escritora, Dramaturga",
+  "",
+  "candidate-lc-gomes-3-4-clean.jpg",
+  "candidate-lc-gomes-3-4-clean.jpg"
+)
+
 const candidatesMap = {
   "s-alves": candidateSLAlves,
   "s-cunha": candidateSCunha,
@@ -395,7 +406,8 @@ const candidatesMap = {
   "m-freitas": candidateMFreitas,
   "t-liberato": candidateTLiberato,
   "j-pinto": candidateJPinto,
-  "j-sales": candidateJSales
+  "j-sales": candidateJSales,
+  "lc-gomes": candidateLCGomes
 }
 
 const candidateBtns = document.querySelectorAll(
@@ -433,6 +445,9 @@ function changeCandidate(event) {
     case "j-sales":
       candidateInstitution.innerText = "Candidata à " +
         selectedCandidate.institution
+      break
+    case "lc-gomes":
+      candidateInstitution.innerText = selectedCandidate.institution
       break
     default:
       candidateInstitution.innerText = "Candidato à " +
