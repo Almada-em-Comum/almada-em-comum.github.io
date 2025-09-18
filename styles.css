@@ -303,6 +303,11 @@ label:hover {
     font-weight: 375;
 }
 
+.accordion-body ul li {
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+}
+
 .accordion-item {
     background-color: var(--accordion-bg-color);
     border: none;
