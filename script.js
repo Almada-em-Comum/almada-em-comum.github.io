@@ -348,7 +348,7 @@ const candidateMFreitas = new Candidate(
   "Assembleia da de Freguesia UF de Almada, Cova da Piedade, Pragal e Cacilhas",
   "LIVRE",
   "Estudante",
-  bioFDalva,
+  bioMFreitas,
   "candidate-m-freitas-3-4-clean.jpg",
   "candidate-m-freitas-16-9-clean.jpg"
 )
@@ -359,7 +359,7 @@ const candidateTLiberato = new Candidate(
   "Assembleia de Freguesia da UF de Laranjeiro e Feijó",
   "LIVRE",
   "Estudante",
-  bioFDalva,
+  bioTLiberato,
   "candidate-t-liberato-3-4-clean.jpg",
   "candidate-t-liberato-16-9-clean.jpg"
 )
@@ -370,7 +370,7 @@ const candidateJPinto = new Candidate(
   "Assembleia de Freguesia da UF de Charneca da Caparica e Sobreda",
   "Bloco de Esquerda",
   "Gestor de Produto, Coordenador da Comissão de Trabalhadores da Altice",
-  bioFDalva,
+  bioJPinto,
   "candidate-j-pinto-3-4-clean.jpg",
   "candidate-j-pinto-16-9-clean.jpg"
 )
