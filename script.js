@@ -426,7 +426,6 @@ function changeCandidate(event) {
     candidateBioEl.appendChild(pNode)
   }
 
-
   const candidateProfessionAgeEl = document
         .getElementById("candidate-profession-age")
   candidateProfessionAgeEl.innerText = selectedCandidate.profession + ", " +
@@ -464,6 +463,7 @@ function reflowNarrowScreen() {
   const candidatePhotoEl = document
         .getElementById("candidate-picture")
   const dropdownHeaders = document.getElementsByClassName("dropdown-header")
+  const bannerEl = document.getElementById("banner")
 
   let elementsToReflow = [
     pageTitleEl,
@@ -479,10 +479,12 @@ function reflowNarrowScreen() {
     for (let element of elementsToReflow) {
       element.classList.add("narrow-screen")
     }
+    bannerEl.src = "assets/banner-clean-portrait.jpg"
   } else {
     for (let element of elementsToReflow) {
       element.classList.remove("narrow-screen")
     }
+    bannerEl.src = "assets/banner-clean-wide.jpg"
   }
 }
 

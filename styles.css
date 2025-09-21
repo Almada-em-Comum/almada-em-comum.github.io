@@ -75,7 +75,6 @@ body {
     font-family: "Bricolage Grotesque", sans-serif;
     font-optical-sizing: auto;
     color: var(--black);
-    margin-top: 16px;
 }
 
 h1 {
@@ -111,6 +110,7 @@ header {
     display: flex;
     justify-content: space-between;
     margin-left: calc((100% - var(--content-board-width-percentage)) / 2);
+    margin-top: 1rem;
 }
 
 footer {
@@ -384,6 +384,12 @@ h3.accordion-header {
 
 .dropdown-header:not(.freguesia) {
     text-decoration: underline;
+}
+
+#banner {
+    width: 100vw;
+    margin: 2rem auto 1rem auto;
+    display: block;
 }
 
 #content-board {
