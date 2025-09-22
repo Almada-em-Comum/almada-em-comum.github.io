@@ -147,54 +147,64 @@ um defensor nato das minorias e preocupado com integração total dos mesmos na
 sociedade. Autarca desde 2017 na Assembleia da União das Freguesias da
 Caparica e Trafaria.`;
 
-const bioMFreitas = `Nasci, cresci e vivi sempre em Almada, na Cova da Piedade
-. É na margem certa que estudo, frequentando o Mestrado em Genética Molecular
-e Biomedicina na NOVA FCT, onde também tenho a minha atividade associativa
-abraçada à ecologia e à comunidade no Núcleo de Ambiente e Sustentabilidade,
-do qual fui dirigente no último ano. Também tenho um passado ligado ao
-desporto local como exímio aquecedor de bancos no quase centenário Clube
-Recreativo Piedense. Tendo crescido durante os anos da troika num planeta cada
-vez mais quente, tornou-se inevitável ser de esquerda e ecologista. Aqui, moro
-com diversas causas que fazem falta na nossa cidade, como o cooperativismo, a
+const bioMFreitas = `Nasci, cresci e vivi sempre em Almada, na Cova da Piedade.
+É na margem certa que estudo, frequentando o Mestrado em Genética Molecular e
+Biomedicina na NOVA FCT, onde também tenho a minha atividade associativa
+abraçada à ecologia e à comunidade no Núcleo de Ambiente e Sustentabilidade, do
+qual fui dirigente no último ano. Também tenho um passado ligado ao desporto
+local como exímio aquecedor de bancos no quase centenário Clube Recreativo
+Piedense. Tendo crescido durante os anos da troika num planeta cada vez mais
+quente, tornou-se inevitável ser de esquerda e ecologista. Aqui, moro com
+diversas causas que fazem falta na nossa cidade, como o cooperativismo, a
 ecologia e a participação cidadã na democracia local. O trabalho coletivo é a
 força que faz Almada crescer!
 
-A minha candidatura à Assembleia Municipal é movida pelo tempo. Um em cada
-quatro almadenses sai todos os dias da “cidade dormitório” para trabalhar,
-aumentando a jornada de trabalho em várias horas. São horas de vida perdidas
-que poderiam ser passadas a conviver em família, a participar no
-associativismo local ou a aproveitar a cultura almadense.
+A nossa candidatura é movida pelo tempo. Um em cada quatro almadenses sai todos
+os dias da “cidade dormitório” para trabalhar, aumentando a jornada de trabalho
+em várias horas. São horas de vida perdidas que poderiam ser passadas a conviver
+em família, a participar no associativismo local ou a aproveitar a cultura
+almadense.
+
+Tendo crescido no eixo Piedade-Almada, consegui acompanhar as alterações que a
+União de Freguesias sofreu ao longo dos anos. No entanto, é uma não mudança que
+causa um dos maiores mal-estares nos bairros da UF: o privilégio do carro.
+A justiça climática também passa pelo direito ao espaço público, não sendo
+aceitável que nos nossos bairros o padrão seja existir ruas onde os passeios não
+passam de meros estacionamentos e os limites de velocidade são simples sugestões,
+colocando os fregueses no meio da estrada e aumentando os acidentes evitáveis,
+assim como a tendência crescente do aparecimento de caminhos de desejo em zonas
+de passagem pouco seguras. Faltam zonas de coexistência, lombas nos passeios e
+até iniciativas de fecho de ruas ao trânsito para que os fregueses tenham direito
+ao bairro, ideias pelas quais lutarei nesta junta.
+Outra grande causa que me move é o atual desuso do edifício da histórica
+Cooperativa Piedense, servindo como armazém do Museu da Cidade. Tendo convivido
+com o seu final de vida, este desrespeito para com um património com um legado
+importante para a Piedade também me faz olhar para ele como uma oportunidade
+para o honrar e criar uma economia local socialmente justa. Se Lisboa tem uma
+Fábrica de Unicórnios, Almada também pode ter uma Fábrica de Cooperativas!
 
 A coligação Almada em Comum deve lutar por estas pessoas, não aceitando nem o
 conformismo de viver numa periferia, nem a inação ou falsas soluções dos
 executivos passados que não criaram condições para que os almadenses pudessem
-trabalhar na cidade. É da nossa responsabilidade não deixar o tema do “
-desenvolvimento económico” nas mãos da direita e procurar soluções para que
-Almada tenha uma atividade económica socialmente justa, apoiada não só no
-poder público, mas também fortemente no histórico cooperativismo, para que os
+trabalhar na cidade. É da nossa responsabilidade não deixar o tema do
+“desenvolvimento económico” nas mãos da direita e procurar soluções para que
+Almada tenha uma atividade económica socialmente justa, apoiada não só no poder
+público, mas também fortemente no histórico cooperativismo, para que os
 almadenses possam finalmente viver (n)a sua cidade.
 
-Urge também lutar por uma verdadeira ecologia, reduzindo o pouco ambicioso
-prazo do atual executivo de 35 anos para uma Almada Neutra em Carbono. O
-investimento em Núcleos de Energia Renováveis que ainda não preveem a gestão
-democrática pelos moradores, a expansão do Metro para a Costa de Caparica e
-Trafaria que ainda vive uma fase embrionária e os maus odores da Fábrica de
-Palença que continuam a causar desconforto à população do Monte de Caparica
-são causas que deverão ser escrutinadas pelos nossos autarcas nos próximos anos.
+Uma Almada em Comum também terá verdadeiros mecanismos de participação cidadã na
+política local, contrariando a cada vez mais impessoal gestão da vereação. É um
+dever nosso lutar, por exemplo, por um Conselho Municipal da Habitação, para
+colocar no centro da discussão quem mais sofre com a atual crise; por uma
+primeira Assembleia Cidadã Almadense, que debata e crie soluções sobre um grande
+tema da cidade, escolhido pelos habitantes e com uma duração que a torne num
+verdadeiro espaço de mudança. Colocar as pessoas a conversar é a forma mais
+sincera de criar comunidade.
 
-Uma Almada em Comum também terá verdadeiros mecanismos de participação cidadã
-na política local, contrariando a cada vez mais impessoal gestão da vereação.
-É um dever nosso lutar, por exemplo, por um Conselho Municipal da Habitação,
-para colocar no centro da discussão quem mais sofre com a atual crise; por uma
-primeira Assembleia Cidadã Almadense, que debata e crie soluções sobre um
-grande tema da cidade, escolhido pelos habitantes e com uma duração que a
-torne num verdadeiro espaço de mudança. Colocar as pessoas a conversar é a
-forma mais sincera de criar comunidade.
-
-E numa Almada cada vez mais gentrificada, torna-se essencial semear
-verdadeiras relações. É com este espírito de que política local é presença que
-avanço para criarmos juntos uma verdadeira Almada, Cova da Piedade, Pragal e
-Cacilhas em Comum!`;
+E numa Almada cada vez mais gentrificada, torna-se essencial semear verdadeiras
+relações. É com este espírito de que política local é presença que avanço para
+criarmos juntos uma verdadeira Almada, Cova da Piedade, Pragal e Cacilhas em
+Comum!`;
 
 const bioTLiberato = `O meu caminho tem seguido as correntes do Tejo, da vila
 ribatejana, às praias de Oeiras e, finalmente, na margem sul, onde assentei em
