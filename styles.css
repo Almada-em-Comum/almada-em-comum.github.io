@@ -297,6 +297,12 @@ label:hover {
     padding: 1rem 0;
 }
 
+.accordion-body a {
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    font-weight: 600;
+}
+
 .accordion-body ul {
     margin-top: 1rem;
     list-style-type: "- ";
@@ -312,6 +318,10 @@ label:hover {
 .accordion-item {
     background-color: var(--accordion-bg-color);
     border: none;
+}
+
+.link-symbol {
+    text-decoration: none;
 }
 
 .accordion-button::after {
@@ -368,6 +378,7 @@ h3.accordion-header {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
 .page-title.narrow-screen {
     font-size: clamp(16px, 7vw, 30px);
     align-self: self-start;
@@ -427,6 +438,10 @@ h3.accordion-header {
     box-sizing: content-box;
     background-color: var(--accordion-bg-color);
     margin-top: 2rem;
+}
+
+#accordion-flyers ul {
+    list-style-type: none;
 }
 
 #footer-socials {
