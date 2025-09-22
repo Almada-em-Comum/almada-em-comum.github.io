@@ -147,105 +147,36 @@ um defensor nato das minorias e preocupado com integração total dos mesmos na
 sociedade. Autarca desde 2017 na Assembleia da União das Freguesias da
 Caparica e Trafaria.`;
 
-const bioMFreitas = `Nasci, cresci e vivi sempre em Almada, na Cova da Piedade.
-É na margem certa que estudo, frequentando o Mestrado em Genética Molecular e
+const bioMFreitas = `Nasci, cresci e vivi sempre em Almada, na Cova da Piedade. É
+na margem certa que estudo, frequentando o Mestrado em Genética Molecular e
 Biomedicina na NOVA FCT, onde também tenho a minha atividade associativa
 abraçada à ecologia e à comunidade no Núcleo de Ambiente e Sustentabilidade, do
-qual fui dirigente no último ano. Também tenho um passado ligado ao desporto
-local como exímio aquecedor de bancos no quase centenário Clube Recreativo
-Piedense. Tendo crescido durante os anos da troika num planeta cada vez mais
-quente, tornou-se inevitável ser de esquerda e ecologista. Aqui, moro com
-diversas causas que fazem falta na nossa cidade, como o cooperativismo, a
-ecologia e a participação cidadã na democracia local. O trabalho coletivo é a
-força que faz Almada crescer!
+qual fui dirigente no último ano. Tenho contribuído para as movimentações da
+plataforma Casa Para Viver no distrito de Setúbal como forma de luta contra a
+crise da habitação. Também tenho um passado ligado ao desporto local como exímio
+aquecedor de bancos no quase centenário Clube Recreativo Piedense.
 
-A nossa candidatura é movida pelo tempo. Um em cada quatro almadenses sai todos
-os dias da “cidade dormitório” para trabalhar, aumentando a jornada de trabalho
-em várias horas. São horas de vida perdidas que poderiam ser passadas a conviver
-em família, a participar no associativismo local ou a aproveitar a cultura
-almadense.
-
-Tendo crescido no eixo Piedade-Almada, consegui acompanhar as alterações que a
-União de Freguesias sofreu ao longo dos anos. No entanto, é uma não mudança que
-causa um dos maiores mal-estares nos bairros da UF: o privilégio do carro.
-A justiça climática também passa pelo direito ao espaço público, não sendo
-aceitável que nos nossos bairros o padrão seja existir ruas onde os passeios não
-passam de meros estacionamentos e os limites de velocidade são simples sugestões,
-colocando os fregueses no meio da estrada e aumentando os acidentes evitáveis,
-assim como a tendência crescente do aparecimento de caminhos de desejo em zonas
-de passagem pouco seguras. Faltam zonas de coexistência, lombas nos passeios e
-até iniciativas de fecho de ruas ao trânsito para que os fregueses tenham direito
-ao bairro, ideias pelas quais lutarei nesta junta.
-Outra grande causa que me move é o atual desuso do edifício da histórica
-Cooperativa Piedense, servindo como armazém do Museu da Cidade. Tendo convivido
-com o seu final de vida, este desrespeito para com um património com um legado
-importante para a Piedade também me faz olhar para ele como uma oportunidade
-para o honrar e criar uma economia local socialmente justa. Se Lisboa tem uma
-Fábrica de Unicórnios, Almada também pode ter uma Fábrica de Cooperativas!
-
-A coligação Almada em Comum deve lutar por estas pessoas, não aceitando nem o
-conformismo de viver numa periferia, nem a inação ou falsas soluções dos
-executivos passados que não criaram condições para que os almadenses pudessem
-trabalhar na cidade. É da nossa responsabilidade não deixar o tema do
-“desenvolvimento económico” nas mãos da direita e procurar soluções para que
-Almada tenha uma atividade económica socialmente justa, apoiada não só no poder
-público, mas também fortemente no histórico cooperativismo, para que os
-almadenses possam finalmente viver (n)a sua cidade.
-
-Uma Almada em Comum também terá verdadeiros mecanismos de participação cidadã na
-política local, contrariando a cada vez mais impessoal gestão da vereação. É um
-dever nosso lutar, por exemplo, por um Conselho Municipal da Habitação, para
-colocar no centro da discussão quem mais sofre com a atual crise; por uma
-primeira Assembleia Cidadã Almadense, que debata e crie soluções sobre um grande
-tema da cidade, escolhido pelos habitantes e com uma duração que a torne num
-verdadeiro espaço de mudança. Colocar as pessoas a conversar é a forma mais
-sincera de criar comunidade.
-
-E numa Almada cada vez mais gentrificada, torna-se essencial semear verdadeiras
-relações. É com este espírito de que política local é presença que avanço para
-criarmos juntos uma verdadeira Almada, Cova da Piedade, Pragal e Cacilhas em
-Comum!`;
+Acredito que a ação política é feita no terreno e junto da comunidade, cara a
+cara, sendo membro do atual Grupo de Coordenação Local do LIVRE Almada. É com
+esta bagagem de experiência e presença no terreno, aliada a novas ideias, que
+assumo este compromisso de construir uma Almada, Cova da Piedade, Pragal e
+Cacilhas mais participada, viva e verde.`;
 
 const bioTLiberato = `O meu caminho tem seguido as correntes do Tejo, da vila
-ribatejana, às praias de Oeiras e, finalmente, na margem sul, onde assentei em
-Almada há 3 anos. Foi e é na vivência destes vários espaços que me construo e
-moldo e, talvez por terem sido tão diferentes entre si, me tenham
-sensibilizado para várias perspetivas de vida na área metropolitana. Licenciei-
-me em Ciência Política e Relações Internacionais na NOVA FCSH em 2021 e
-retomei os estudos em 2024 para seguir mestrado em Gestão na NOVA SBE.
+ribatejana, às praias de Oeiras e, de há 4 anos para cá, na margem sul. Sou
+licenciada em Ciência Política e Relações Internacionais pela NOVA FCSH e fui
+membro do Núcleo de Estudos de Ciência Política e Relações Internacionais, que
+tinha um importante papel na dinamização de eventos para a comunidade estudantil.
+Neste momento, sou mestranda em Gestão na NOVA SBE, estando a terminar a minha
+tese académica.
 
-O Laranjeiro e Feijó são freguesias de destino: muitas gentes de fora
-escolheram aqui viver, tal como eu. É por isso um ponto de encontro
-socialmente e culturalmente diverso, em que a população migrante é um
-importante fator na dinamização do comércio local. As autarquias locais e em
-particular as juntas de freguesia têm um papel essencial em mediar os
-interesses de populações tão diversas para construir um espaço comum que sirva
-todas as suas aspirações.
+Na minha vida profissional, tenho recentemente estado ligada a projetos de apoio
+ao setor empresarial, nas áreas de inovação, empreendedorismo e
+internacionalização.
 
-Num momento em que as forças de direita nos querem pôr uns contra os outros,
-há que nos virar para os nossos vizinhos, para perceber que as lutas
-quotidianas - na mobilidade, na habitação, na educação, na saúde - até são as
-mesmas. É necessário atuar em proximidade dos fregueses, criando espaços de
-encontro e diálogo e fomentar uma democracia participada, onde todas são
-encorajadas a pronunciar-se sobre o destino do território que ocupam para
-viver e trabalhar.
-
-Mas para ser destino, é preciso caminho. Desde os que saem para o trabalho
-ainda antes de o sol nascer, aos que neste território ergueram os seus
-pequenos negócios de bairro, temos de dignificar a vida de quem aqui vive. Dar
-as condições para que os fregueses encontrem na sua proximidade onde passar o
-tempo livre, tornando as ruas seguras: para brincar, em ruas limpas, verdes e
-cuidadas; para caminhar e pedalar, sem o perigo do automóvel e em passeios
-acessíveis por todos; para conviver e passear, gozando do direito de ocupar o
-espaço público livremente e contrariando a tendência mercantilista do lazer.
-
-Pôr, por isso, ao dispor da população os equipamentos públicos para expandir
-as capacidades de cada um, apoiar o associativismo para criar redes
-comunitárias e tornar os nossos espaços públicos apelativos para se passar o
-tempo. Um mandato na assembleia tornaria o Laranjeiro e Feijó mais próximo do
-ideal de freguesia que queremos. Convicta de que precisamos do projeto da
-coligação Almada em Comum nestas freguesias, assumo este compromisso para a
-melhoria do território que é de todos e que por todos deve ser criado.`;
+Nestas Eleições Autárquicas, a minha participação cívico-política assume um novo
+compromisso com o território que me acolheu há 4 anos, para ajudar a construir o
+destino de freguesias mais solidárias, saudáveis, verdes e ecológicas.`;
 
 const bioJPinto = `Exerço funções de Gestor de Produto na MEO e centra a minha
 atividade política na área autárquica e laboral. Sou coordenador da Comissão
